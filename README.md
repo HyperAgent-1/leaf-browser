@@ -54,6 +54,8 @@ You can also install it like so:
 You can now launch the app by visiting your Apps page (left hand side of the
 bookmarks bar, or visit `chrome://apps/`), and selecting "Leaf Browser"
 
+THIS IS A FORK OF LEAF BROWSER. THE ORIGINAL IS AT https://github.com/samlanning/leaf-browser
+
 ## Contribution
 
 Contributions / PRs are of course welcome, but you need to be happy that your
